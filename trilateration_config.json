@@ -1,0 +1,23 @@
+{
+    "raspberrypis": [
+        {
+            "raspberrypi_id": 1,
+            "input_url": "http://localhost:5000/getData1",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "raspberrypi_id": 2,
+            "input_url": "http://localhost:5000/getData2",
+            "x": 1,
+            "y": 1
+        },
+        {
+            "raspberrypi_id": 3,
+            "input_url": "http://localhost:5000/getData3",
+            "x": 1,
+            "y": 0
+        }
+    ],
+    "output_url" : "http://localhost:5000/outputServerStub"
+}
